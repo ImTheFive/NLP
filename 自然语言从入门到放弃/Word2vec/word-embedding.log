@@ -1,0 +1,31 @@
+epoch: 0, iter: 0, loss: 420.0473327636719
+epoch: 0, iter: 0, loss: 420.04693603515625
+epoch: 0, iteration: 0, simlex-999: SpearmanrResult(correlation=-0.006196738778654547, pvalue=0.8484089435092349), men: SpearmanrResult(correlation=0.015292612821448068, pvalue=0.4373130398845717), sim353: SpearmanrResult(correlation=-0.04056255502523981, pvalue=0.47034145049281806), nearest to monster: ['monster', 'researched', 'endeavor', 'waves', 'eyesight', 'idiot', 'bukhari', 'unusable', 'atrocities', 'indra']
+epoch: 0, iter: 100, loss: 267.652099609375
+epoch: 0, iter: 200, loss: 208.6122589111328
+epoch: 0, iter: 300, loss: 173.39419555664062
+epoch: 0, iter: 400, loss: 145.53695678710938
+epoch: 0, iter: 500, loss: 139.72572326660156
+epoch: 0, iter: 600, loss: 131.5256805419922
+epoch: 0, iter: 700, loss: 103.99178314208984
+epoch: 0, iter: 0, loss: 420.0473327636719
+epoch: 0, iter: 0, loss: 420.04693603515625
+epoch: 0, iteration: 0, simlex-999: SpearmanrResult(correlation=-0.006196738778654547, pvalue=0.8484089435092349), men: SpearmanrResult(correlation=0.015292612821448068, pvalue=0.4373130398845717), sim353: SpearmanrResult(correlation=-0.04056255502523981, pvalue=0.47034145049281806), nearest to monster: ['monster', 'researched', 'endeavor', 'waves', 'eyesight', 'idiot', 'bukhari', 'unusable', 'atrocities', 'indra']
+epoch: 0, iter: 100, loss: 267.652099609375
+epoch: 0, iter: 200, loss: 208.6122589111328
+epoch: 0, iter: 300, loss: 173.39419555664062
+epoch: 0, iter: 400, loss: 145.53695678710938
+epoch: 0, iter: 500, loss: 139.72572326660156
+epoch: 0, iter: 600, loss: 131.5256805419922
+epoch: 0, iter: 700, loss: 103.99178314208984
+epoch: 0, iter: 800, loss: 97.79254150390625
+epoch: 0, iter: 900, loss: 104.3116683959961
+epoch: 0, iter: 1000, loss: 100.31382751464844
+epoch: 0, iter: 1100, loss: 97.7201156616211
+epoch: 0, iter: 1200, loss: 72.00434875488281
+epoch: 0, iter: 1300, loss: 78.10643005371094
+epoch: 0, iter: 1400, loss: 93.05554962158203
+epoch: 0, iter: 1500, loss: 78.8027114868164
+epoch: 0, iter: 1600, loss: 58.257049560546875
+epoch: 0, iter: 1700, loss: 77.68392944335938
+epoch: 0, iter: 1800, loss: 66.97612762451172
